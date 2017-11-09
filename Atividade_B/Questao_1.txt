@@ -1,0 +1,3 @@
+	Programação orientada a objetos é um paradgma de programação muito difundito atualmente, uma grande diferença entre ela e a programação estruturada são os metodos que são procedimentos pertecentes a suas classes, diferente da programação estruturada que tem procedimentos gerais, para todas as funções.
+	Em POO(Programação orientada a objetos) existe o conceito de classes que são moldes, com atributos de algum objeto real. Os atributos de uma classe são criados a partir da declaração de variáveis. A partir das classes que são criados os objetos, representações de coisas fisicas.
+	Alguns programadores confudem a criação do objeto com o momento da sua declaração, porem o objeto só é criado no momento em que ele é instanciado.
