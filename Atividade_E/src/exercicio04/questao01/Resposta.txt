@@ -1,0 +1,1 @@
+Primeiro é criado um vetor de 5 posiçções depois dentro de um "for" que vai de 0 ao tamanho do vetor é acrecentado o valor corrente a posição corrente e a "printa"

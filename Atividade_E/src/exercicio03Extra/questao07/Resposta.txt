@@ -1,0 +1,8 @@
+Variavel "quantidade" não inicializada.
+solução:
+public class Produto {
+	int quantidade = 0;
+	void acumula (int quantidade) {
+		quantidade++;
+	}
+}

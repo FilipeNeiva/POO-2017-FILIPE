@@ -1,0 +1,8 @@
+O construtor exige um inteiro na instanciação o que não é feito.
+solução:
+.
+.
+.
+		Post p = new Post(1);
+	}
+}

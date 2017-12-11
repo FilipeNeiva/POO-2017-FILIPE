@@ -1,0 +1,3 @@
+Classe é o conjunto de caracteristicas e comportamentos que compõe um obejeto.
+Objeto é uma representação de alguma coisa real.
+Exemplo: Considerando uma conta em um banco, classe seria a abstração das pricipais caracteristicas como numero da conta, titular e etc; já o objeto seria a conta em si.

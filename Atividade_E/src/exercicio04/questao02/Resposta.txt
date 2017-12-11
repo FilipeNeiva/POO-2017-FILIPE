@@ -1,0 +1,1 @@
+Erro de execução. O codigo não instancia os elementos do vetor e o erro se é percebido no momento da execução.

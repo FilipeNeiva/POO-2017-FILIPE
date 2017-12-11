@@ -1,0 +1,8 @@
+Não há um inteiro na instanciação de "r" exigida no construtor.
+solução:
+.
+.
+.
+		Raio r = new Raio(10);
+	}
+}

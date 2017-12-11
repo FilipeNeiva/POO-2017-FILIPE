@@ -1,0 +1,1 @@
+Havera dois erros um causado pela não inicialização da variavel "contador" e outro pela falta dos parametros no metodo principal.

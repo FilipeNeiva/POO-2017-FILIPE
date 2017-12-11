@@ -1,0 +1,1 @@
+Sim, pois uma pessoa pode ter uma conta corrente e uma poupança. Um vetor.

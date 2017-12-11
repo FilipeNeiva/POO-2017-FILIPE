@@ -1,0 +1,1 @@
+Sim, pois o metodo "dobra" retorna o dobro de i, mas como i não tem nenhum valor o resultado sera um erro.

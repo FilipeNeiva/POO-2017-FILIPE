@@ -1,0 +1,1 @@
+o numero 1 vai ser imprimido, porem o compilador vai continuar a comparar os outros casos pois não há o comando "break" no final de cada case.

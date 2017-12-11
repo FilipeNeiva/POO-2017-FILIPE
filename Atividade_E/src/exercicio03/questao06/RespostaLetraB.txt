@@ -1,0 +1,1 @@
+Ele é instanciado com o numero da conta igual a 1 e o saldo igual a 100 porem logo apos isso c1 passa a apontar para o mesmo objeto que c2 então não é mais utilizado.

@@ -1,0 +1,1 @@
+Ocasionara um erro pois não nenhum construtor na classe "Hotel" que receba um inteiro como parâmetro.

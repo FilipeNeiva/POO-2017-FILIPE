@@ -1,0 +1,7 @@
+A função não salva o valor acumulado.
+A solução seria dar um retorno a função:
+
+double x(double valor){
+	valor = valor + valor;
+	return valor;
+}

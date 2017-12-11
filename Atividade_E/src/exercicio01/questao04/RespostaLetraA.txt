@@ -1,0 +1,1 @@
+Sim, pois "pessoa" teria mais atributos do que se colocassemos apenas o atributo "nome".

@@ -1,0 +1,1 @@
+O resultado dos prints sera 90. pois pois c1 esta apontando para o mesmo objeto que c2 então a transferencia não altera em nada o resultado.

@@ -1,0 +1,1 @@
+Sera impresso a subtração de "a" por "b", pois "a" é igual a 9 que é menor que 11 e como tem um operador "e"(&&) apenas uma codição tem de ser falsa para entrar no else.

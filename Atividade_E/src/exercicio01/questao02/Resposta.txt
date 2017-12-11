@@ -1,0 +1,3 @@
+Atributos são caraciteristicas de um objeto.
+Metodos são comportamentos de um objeto.
+Exemplo: Usanso o mesmo exemplo da conta, numero da conta e saldo são os atributos; depositar e sacar seriam metodos.

@@ -1,0 +1,1 @@
+Vai gerar um erro pois não existe nenhuma classe pricipal(main).

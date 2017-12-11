@@ -1,0 +1,1 @@
+Resultara em um erro pois a variavel "j" não foi inicializada.

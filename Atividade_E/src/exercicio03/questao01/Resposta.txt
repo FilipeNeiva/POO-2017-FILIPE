@@ -1,0 +1,1 @@
+Sim, pois o comando "quantReservas++;" incrementa 1 a variavel "quantReservas" porem como ela não tem nenhum valor não pode ser incrementada.

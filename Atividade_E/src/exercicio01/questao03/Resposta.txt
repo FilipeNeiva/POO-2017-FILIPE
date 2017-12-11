@@ -1,0 +1,9 @@
+	Atributos	|Sis. é importante	|Sis. não é importante
+
+Peso			|UFC			|Campeonato de xadrez
+Tipo de CNH		|Formula 1		|Campeonato de xadrez
+Tipo sanguíneo		|Hospital		|Campeonato de xadrez
+Habilidade destra	|Campeonato de Futebol	|Campeonato de xadrez
+Percentual de gordura	|Sumô			|Campeonato de xadrez
+Saldo em conta		|Banco			|Campeonato de xadrez
+Etinia			|Ku Klux Klan		|Campeonato de xadrez
