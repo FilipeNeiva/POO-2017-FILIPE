@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.example.aluno.biblioteca.CadastroLivroActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cadastro_livro"
+        android:layout_gravity="center"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/edt_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nome"
+        android:maxLength="30"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/edt_num_pag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/numero_de_paginas"
+        android:maxLength="5"/>
+
+    <EditText
+        android:id="@+id/edt_autor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/autor"
+        android:maxLength="30"
+        android:inputType="text"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:onClick="pegarData">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="@string/data_inicio"
+            android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/txt_data_lancamento"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="00/00/0000"
+            android:textSize="20dp"/>
+
+    </LinearLayout>
+
+
+    <RadioGroup
+        android:id="@+id/situacao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/situa_o"/>
+
+        <RadioButton
+            android:id="@+id/desejado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/desejado"
+            android:layout_marginLeft="15dp"/>
+
+        <RadioButton
+            android:id="@+id/lendo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lendo"/>
+
+        <RadioButton
+            android:id="@+id/lido"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lido"/>
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cadastrar"
+        android:onClick="cadastrar"
+        android:background="@color/colorPrimary"/>
+
+
+</LinearLayout>

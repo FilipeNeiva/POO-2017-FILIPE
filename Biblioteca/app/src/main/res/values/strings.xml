@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="lidos">Lidos</string>
+    <string name="lendo">Lendo</string>
+    <string name="desejados">Desejados</string>
+    <string name="cadastro_livro">Cadastrar Livro:</string>
+    <string name="nome">Nome</string>
+    <string name="numero_de_paginas">Numero de paginas</string>
+    <string name="autor">Autor</string>
+    <string name="desejado">Desejado</string>
+    <string name="lido">Lido</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="situa_o">Situação:</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="n_o_tem_uma_conta">Não tem uma conta?</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar_usuario">Cadastrar usuario:</string>
+    <string name="repetir_senha">Digite a senha novamente</string>
+    <string name="senhas_diferentes">Senhas diferentes</string>
+    <string name="cad_usuario_sucesso">Usuario cadastrado com sucesso!</string>
+    <string name="preencher_campos">Todos os campos devem ser preenchidos</string>
+    <string name="email_cadastrado">Email ja cadastrado</string>
+    <string name="email_nao_cadastrado">Email não cadastrado</string>
+    <string name="es_incorreto">Email ou senha incorreto(a)</string>
+    <string name="add_livro_suc">Livro adicionado com sucesso!</string>
+    <string name="data_inicio">Data de lançamento:</string>
+    <string name="sair">Sair</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="livro_atualizado">Livro Atualizado!</string>
+</resources>
