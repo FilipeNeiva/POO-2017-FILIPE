@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="nome_de_usuario">Nome de usuario</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="calcular_media">Calcular media</string>
+    <string name="peso_da_nota_1">Peso da nota 1</string>
+    <string name="peso_da_nota_2">Peso da nota 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="preencher_campus">Todos os campus devem ser preenchidos</string>
+</resources>

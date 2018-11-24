@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GerenciadorTarefas</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="digite_a_senha_novamente">Digite a senha novamente</string>
+    <string name="nome_de_usuario">Nome de usuario</string>
+    <string name="preencher_campus">Todos os campus devem ser preenchidos</string>
+    <string name="senhas_diferentes">Senhas diferentes</string>
+    <string name="usuario_cadastrado">Usuario cadastrado com sucesso</string>
+    <string name="usuario_ja_cadastrado">Usuario ja cadastrado</string>
+    <string name="usuario_nao_cadastrado">Usuario não cadastrado</string>
+    <string name="senha_incorreta">Senha incorreta</string>
+</resources>
